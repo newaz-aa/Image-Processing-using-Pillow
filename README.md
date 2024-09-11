@@ -2,6 +2,9 @@
 # Project
 
 Image Processing using Python Pillow Library
+
+![pillow](https://img.shields.io/pypi/v/pillow?label=pillow)
+
 # Description
 
 Python's Pillow library is used to process an image file. The brightness of the image is varied. All the images with different brightness are grouped together in a canvas or contact sheet.
